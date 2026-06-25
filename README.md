@@ -129,6 +129,14 @@ As recomendações apresentadas neste estudo têm como finalidade:
 3. Executar as células na ordem apresentada;
 4. Consultar o relatório executivo para a interpretação dos resultados.
 
+   ## 📄 Relatório Executivo
+
+O GitHub pode não conseguir visualizar alguns PDFs diretamente no navegador.
+
+Caso isso aconteça, basta clicar em **Download** para abrir o relatório completo.
+
+📄 Arquivo: `relatorio_case_palavritas.pdf`
+
 ---
 
 Obrigado pela oportunidade!
